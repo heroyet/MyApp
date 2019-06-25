@@ -38,7 +38,7 @@ export class MyApp extends Component{
     //动画开始，循环播放
     _startAnimation(isEnd){
         Animated.timing(this.state.fadeInOpacity,{
-            toValue: 1, // 透明度最终变为1，即完全不透明
+            toValue: 1, // 透明度最终变为1，即完全不透明111
             easing: Easing.linear,//动画方式
             duration: 2000//动画时长
         }).start(()=>{// 开始执行动画
