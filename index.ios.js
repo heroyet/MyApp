@@ -21,7 +21,7 @@ export default class MyResponder extends PureComponent {
     constructor(props) {
         super(props);
         this.state = {
-            //用于更新界面
+            //用于更新界面的代码
             lastX: 0,
 
         };
