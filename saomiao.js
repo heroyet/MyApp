@@ -17,7 +17,7 @@ const { width,height } = Dimensions.get('window');
 import Camera from 'react-native-camera';
 import FindView from './FindView'
 
-import backIcon from './src/img/backIcon.png';//返回按钮
+import backIcon from './src/img/backIcon.png';//返回按钮11
 import scanLine from './src/img/scan_line.png';//扫描线
 import flashLight from './src/img/flash_light.jpg';//手电筒
 
