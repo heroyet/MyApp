@@ -21,14 +21,14 @@ export default class MyResponder extends PureComponent {
     constructor(props) {
         super(props);
         this.state = {
-            //用于更新界面的代码
+            //用于更新界面
             lastX: 0,
 
         };
 
         //每次移动的临时数组
         this.MousePostion = {
-            firstX:0, //起点 X 坐标
+            firstX:0, //起点 X 坐标111
             firstY:0,// 起点 Y 坐标
             x: 0,   //经过路径的x坐标
             y: 0    //经过路径的y坐标
