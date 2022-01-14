@@ -7,7 +7,7 @@
 		"test": "jest"
 	},
 	"dependencies": {
-		"node-forge": "^0.7.6",
+		"node-forge": "^1.0.0",
 		"react": "16.0.0-alpha.6",
 		"react-native": "0.43.0",
 		"react-native-audio": "^3.2.2",
