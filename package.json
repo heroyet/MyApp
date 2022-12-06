@@ -9,7 +9,7 @@
 	"dependencies": {
 		"node-forge": "^0.7.6",
 		"react": "16.0.0-alpha.6",
-		"react-native": "0.43.0",
+		"react-native": "0.70.6",
 		"react-native-audio": "^3.2.2",
 		"react-native-camera": "^0.7.0",
 		"react-native-file-opener": "^0.2.0",
